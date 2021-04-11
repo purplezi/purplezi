@@ -24,25 +24,12 @@
   [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
   [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
-- I have ~~some articles~~ on WeChat Official Accounts:
-  - 😋 [Zappa](https://mp.weixin.qq.com/s/ltsdaXfOnlXIL3j9WStRCA)
 - 👯 My hobbies: sports(volleyball, table tennis, badminton) and singing soul-stirring music.👰
 - 📫 How to reach me: if you have any questions, then I definitely have too, so contact me and tell me the solutions.
   - Gmail: zhaoagnes123@gmail.com
   - QQ Email(Spam warning👊, I mean my email): 654762676@qq.com
+- 🤩 I have ~~some articles~~ on WeChat Official Accounts: 😋 [Zappa](https://mp.weixin.qq.com/s/ltsdaXfOnlXIL3j9WStRCA)
 
 ## 🍚 ~~GitHub Stats~~(No useful info)
 
 [![Purplezi's GitHub stats](https://github-readme-stats.vercel.app/api?username=purplezi&show_icons=true&theme=radical)](https://github.com/purplezi/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purplezi&repo=purplezi.github.io)](https://github.com/purplezi/purplezi.github.io)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purplezi&repo=Software-and-System-Security)](https://github.com/purplezi/Software-and-System-Security)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purplezi&repo=Security-Development-Lifecycle)](https://github.com/purplezi/Security-Development-Lifecycle)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purplezi&repo=Gople)](https://github.com/purplezi/Gople)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CUCCS&repo=2019-NS-Public-purplezi)](https://github.com/CUCCS/2019-NS-Public-purplezi)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=purplezi&repo=Sorenson)](https://github.com/purplezi/Sorenson)
