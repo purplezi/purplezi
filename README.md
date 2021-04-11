@@ -33,3 +33,5 @@
 ## 🍚 ~~GitHub Stats~~(No useful info)
 
 [![Purplezi's GitHub stats](https://github-readme-stats.vercel.app/api?username=purplezi&show_icons=true&theme=radical)](https://github.com/purplezi/github-readme-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purplezi&theme=radical" />
